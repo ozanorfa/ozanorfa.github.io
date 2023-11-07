@@ -1,7 +1,9 @@
 # Software Developer
 
 ### Education
-Computer Science, Istanbul Bilgi University
+Computer Engineering, Istanbul Bilgi University'2018
+
+Computer Science - Erasmus+ Exchange, Blekinge Institute of Technology'2016 
 
 ### Work Experience
 Software Developer @ OlduBil 
