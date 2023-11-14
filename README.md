@@ -1,18 +1,25 @@
 # Software Developer
 
-### Education
-Computer Engineering, Istanbul Bilgi University'2018
+## Professional Summary
+Experienced Software Developer with a strong background in mobile and backend development. Proficient in Flutter, Android (Java, Kotlin), iOS (Swift), and Node.js. Proven track record in delivering high-quality mobile applications and backend solutions.
 
-Computer Science, Blekinge Institute of Technology'2016 ,Erasmus+ Exchange
+## Education
+### Computer Engineering
+Istanbul Bilgi University'2018
 
-### Work Experience
-Software Developer @ OlduBil - 2021 March
-- Hybrid Mobile Development with Flutter
-- Console Application with C#
-- Backend Development with Node.js
+### Computer Science (Erasmus+ Exchange)
+Blekinge Institute of Technology'2016
 
-Software Developer @ Golive - 2018 May to 2021 March 
-- Native Mobile Development with Android(Java - Kotlin) and iOS(Swift)
+## Work Experience
+### Software Developer
+OlduBil, March 2021 - Present
+- Spearheaded hybrid mobile development using Flutter.
+- Developed console applications in C#.
+- Managed backend development with Node.js.
+
+### Mobile Application Developer
+Golive, May 2018 - March 2021
+- Led native mobile development for Android (Java, Kotlin) and iOS (Swift).
 
 ### Projects
 OlduBil Mobile App
