@@ -23,3 +23,8 @@ _Golive Consulting_, May 2018 - March 2021
 
 ### Projects
 **OlduBil Mobile App**
+
+### Contact Information
+[Linkedin](www.linkedin.com/in/ozan-orfa-464b6611b)  
+Email: [ozanorfa@gmail.com](mailto:ozanorfa@gmail.com)
+
