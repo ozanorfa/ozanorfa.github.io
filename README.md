@@ -1,5 +1,7 @@
 # Software Developer
 
+---
+
 ## Professional Summary
 Experienced Software Developer with a strong background in mobile and backend development. Proficient in Flutter, Android (Java, Kotlin), iOS (Swift), and Node.js. Proven track record in delivering high-quality mobile applications and backend solutions.
 
