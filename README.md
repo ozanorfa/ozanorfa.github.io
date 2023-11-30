@@ -3,7 +3,7 @@
 ---
 
 ## Professional Summary
-Experienced Software Developer with a strong background in mobile and backend development. Proficient in Flutter, Android (Java, Kotlin), iOS (Swift), and Node.js. Proven track record in delivering high-quality mobile applications and backend solutions.
+I am an experienced software developer with a strong background in mobile and backend development. I am proficient in Flutter, Android (Java, Kotlin), iOS (Swift) for mobile development, and Node.js for backend development. 
 
 ---
 
@@ -18,13 +18,14 @@ Blekinge Institute of Technology, 2016
 ### Work Experience
 **Software Developer**  
 _OlduBil_, March 2021 - Present
-- Spearheaded hybrid mobile development using Flutter.
-- Developed console applications in C#.
-- Managed backend development with Node.js.
+- Hybrid mobile development using Flutter.
+- Native mobile development using Android with Kotlin and iOS with Swift.
+- Console applications development in C#.
+- Backend development with Node.js.
 
 **Mobile Application Developer**  
 _Golive Consulting_, May 2018 - March 2021
-- Led native mobile development for Android (Java, Kotlin) and iOS (Swift).
+- Native mobile development using Android with Kotlin and iOS with Swift.
 
 ---
 ### Projects
